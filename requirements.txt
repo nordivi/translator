@@ -1,6 +1,5 @@
+gradio
+transformers
 torch
 torchvision
-torchaudio -f https://download.pytorch.org/whl/lts/1.8/torch_lts.html
-transformers
-gradio
-ipywidgets
+torchaudio
